@@ -24,3 +24,9 @@ Este curso no sólo busca beneficiar a los estudiantes, sino también a los prof
 - [2.3 Operadores aritméticos, de comparación y lógicos](./2.%20conceptos_basicos_de_python/2.3%20operadores_aritmeticos_de_comparacion_y_logicos.md)
 - [2.4 Entrada y salida de datos (input y print)](./2.%20conceptos_basicos_de_python/2.4%20entrada_y_salida_de_datos.md)
 - [2.5 Comentarios y buenas prácticas](./2.%20conceptos_basicos_de_python/2.5%20comentarios_y_buenas_practicas.md)
+
+## Estructuras de control de flujo
+- [3.1 Condicionales (if, elif, else)](./3.%20estructuras_de_control_de_flujo/3.1%20condicionales.md)
+- [3.2 Bucles (for y while)](./3.%20estructuras_de_control_de_flujo/3.2%20bucles.md)
+- [3.3 Control de bucles (break, continue, pass)](./3.%20estructuras_de_control_de_flujo/3.3%20control_de_bucles.md)
+
