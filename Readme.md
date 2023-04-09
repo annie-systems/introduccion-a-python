@@ -47,3 +47,10 @@ Este curso no sólo busca beneficiar a los estudiantes, sino también a los prof
 - [6.1 Apertura y cierre de archivos](./6.%20manejo_de_archivos/6.1%20apertura_y_cierre_de_archivos.md)
 - [6.2 Lectura y escritura de archivos](./6.%20manejo_de_archivos/6.2%20lectura_y_escritura_de_archivos.md)
 - [6.3 Manejo de excepciones en la manipulación de archivos](./6.%20manejo_de_archivos/6.3%20manejo_de_excepciones_en_la_manipulacion_de_archivos.md)
+
+## Programación orientada a objetos (OOP) en Python
+- [7.1 Clases y objetos](./7.%20programacion_orientada_a_objetos_en_python/7.1%20clases_y_objetos.md)
+- [7.2 Atributos y métodos](./7.%20programacion_orientada_a_objetos_en_python/7.2%20atributos_y_metodos.md)
+- [7.3 Herencia y polimorfismo](./7.%20programacion_orientada_a_objetos_en_python/7.3%20herencia_y_polimorfismo.md)
+- [7.4 Encapsulamiento](./7.%20programacion_orientada_a_objetos_en_python/7.4%20encapsulamiento.md)
+
