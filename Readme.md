@@ -7,3 +7,13 @@ El contenido del curso está siendo creado con la colaboración de la inteligenc
 Una de las principales metas del curso es implementar un despliegue automático de su contenido y proporcionar un sistema de evaluación y examen en línea, permitiendo a los estudiantes medir su progreso y reforzar su aprendizaje. Además, se planea exportar una versión del curso en formato de libro digital, facilitando así el acceso al material de estudio en diferentes dispositivos y plataformas.
 
 Este curso no sólo busca beneficiar a los estudiantes, sino también a los profesores, proporcionándoles un recurso de alta calidad y fácilmente adaptable para sus propias clases y programas educativos. Con la colaboración de todos, este curso de Introducción a Python puede seguir creciendo y mejorando, convirtiéndose en un referente de calidad en el aprendizaje de la programación con Python.
+
+
+## Indice
+
+Introducción a Python
+1.1. ¿Qué es Python?
+1.2. Historia de Python
+1.3. Características y ventajas de Python
+1.4. Aplicaciones de Python
+1.5. Instalación y configuración del entorno
