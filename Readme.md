@@ -37,4 +37,9 @@ Este curso no sólo busca beneficiar a los estudiantes, sino también a los prof
 - [4.4 Módulos y paquetes en Python](./4.%20funciones_y_modulos/4.4%20modulos_y_paquetes_en_python.md)
 - [4.5 Importación de módulos y funciones](./4.%20funciones_y_modulos/4.5%20importacion_de_modulos_y_funciones.md)
 
+## 5. Estructuras de datos
+- [5.1 Listas y operaciones básicas](./5.%20estructuras_de_datos/5.1%20listas_y_operaciones_basicas.md)
+- [5.2 Tuplas y sus características](./5.%20estructuras_de_datos/5.2%20tuplas_y_sus_caracteristicas.md)
+- [5.3 Diccionarios y operaciones básicas](./5.%20estructuras_de_datos/5.3%20diccionarios_y_operaciones_basicas.md)
+- [5.4 Conjuntos y operaciones básicas](./5.%20estructuras_de_datos/5.4%20conjuntos_y_operaciones_basicas.md)
 
