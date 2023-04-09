@@ -43,3 +43,7 @@ Este curso no sólo busca beneficiar a los estudiantes, sino también a los prof
 - [5.3 Diccionarios y operaciones básicas](./5.%20estructuras_de_datos/5.3%20diccionarios_y_operaciones_basicas.md)
 - [5.4 Conjuntos y operaciones básicas](./5.%20estructuras_de_datos/5.4%20conjuntos_y_operaciones_basicas.md)
 
+## 6. Manejo de archivos
+- [6.1 Apertura y cierre de archivos](./6.%20manejo_de_archivos/6.1%20apertura_y_cierre_de_archivos.md)
+- [6.2 Lectura y escritura de archivos](./6.%20manejo_de_archivos/6.2%20lectura_y_escritura_de_archivos.md)
+- [6.3 Manejo de excepciones en la manipulación de archivos](./6.%20manejo_de_archivos/6.3%20manejo_de_excepciones_en_la_manipulacion_de_archivos.md)
