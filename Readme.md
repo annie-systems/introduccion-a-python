@@ -30,4 +30,11 @@ Este curso no sólo busca beneficiar a los estudiantes, sino también a los prof
 - [3.2 Bucles (for y while)](./3.%20estructuras_de_control_de_flujo/3.2%20bucles_for_y_while.md)
 - [3.3 Control de bucles (break, continue, pass)](./3.%20estructuras_de_control_de_flujo/3.3%20control_de_bucles_break_continue_pass.md)
 
+## 4. Funciones y módulos
+- [4.1 Definición y llamada de funciones](./4.%20funciones_y_modulos/4.1%20definicion_y_llamada_de_funciones.md)
+- [4.2 Argumentos y parámetros](./4.%20funciones_y_modulos/4.2%20argumentos_y_parametros.md)
+- [4.3 Valores de retorno](./4.%20funciones_y_modulos/4.3%20valores_de_retorno.md)
+- [4.4 Módulos y paquetes en Python](./4.%20funciones_y_modulos/4.4%20modulos_y_paquetes_en_python.md)
+- [4.5 Importación de módulos y funciones](./4.%20funciones_y_modulos/4.5%20importacion_de_modulos_y_funciones.md)
+
 
