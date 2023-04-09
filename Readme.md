@@ -25,36 +25,36 @@ Este curso no sólo busca beneficiar a los estudiantes, sino también a los prof
 - [2.4 Entrada y salida de datos (input y print)](./2.%20conceptos_basicos_de_python/2.4%20entrada_y_salida_de_datos.md)
 - [2.5 Comentarios y buenas prácticas](./2.%20conceptos_basicos_de_python/2.5%20comentarios_y_buenas_practicas.md)
 
-## 3. Estructuras de control de flujo
+### 3. Estructuras de control de flujo
 - [3.1 Condicionales (if, elif, else)](./3.%20estructuras_de_control_de_flujo/3.1%20condicionales_if_elif_else.md)
 - [3.2 Bucles (for y while)](./3.%20estructuras_de_control_de_flujo/3.2%20bucles_for_y_while.md)
 - [3.3 Control de bucles (break, continue, pass)](./3.%20estructuras_de_control_de_flujo/3.3%20control_de_bucles_break_continue_pass.md)
 
-## 4. Funciones y módulos
+### 4. Funciones y módulos
 - [4.1 Definición y llamada de funciones](./4.%20funciones_y_modulos/4.1%20definicion_y_llamada_de_funciones.md)
 - [4.2 Argumentos y parámetros](./4.%20funciones_y_modulos/4.2%20argumentos_y_parametros.md)
 - [4.3 Valores de retorno](./4.%20funciones_y_modulos/4.3%20valores_de_retorno.md)
 - [4.4 Módulos y paquetes en Python](./4.%20funciones_y_modulos/4.4%20modulos_y_paquetes_en_python.md)
 - [4.5 Importación de módulos y funciones](./4.%20funciones_y_modulos/4.5%20importacion_de_modulos_y_funciones.md)
 
-## 5. Estructuras de datos
+### 5. Estructuras de datos
 - [5.1 Listas y operaciones básicas](./5.%20estructuras_de_datos/5.1%20listas_y_operaciones_basicas.md)
 - [5.2 Tuplas y sus características](./5.%20estructuras_de_datos/5.2%20tuplas_y_sus_caracteristicas.md)
 - [5.3 Diccionarios y operaciones básicas](./5.%20estructuras_de_datos/5.3%20diccionarios_y_operaciones_basicas.md)
 - [5.4 Conjuntos y operaciones básicas](./5.%20estructuras_de_datos/5.4%20conjuntos_y_operaciones_basicas.md)
 
-## 6. Manejo de archivos
+### 6. Manejo de archivos
 - [6.1 Apertura y cierre de archivos](./6.%20manejo_de_archivos/6.1%20apertura_y_cierre_de_archivos.md)
 - [6.2 Lectura y escritura de archivos](./6.%20manejo_de_archivos/6.2%20lectura_y_escritura_de_archivos.md)
 - [6.3 Manejo de excepciones en la manipulación de archivos](./6.%20manejo_de_archivos/6.3%20manejo_de_excepciones_en_la_manipulacion_de_archivos.md)
 
-## 7. Programación orientada a objetos (OOP) en Python
+### 7. Programación orientada a objetos (OOP) en Python
 - [7.1 Clases y objetos](./7.%20programacion_orientada_a_objetos_en_python/7.1%20clases_y_objetos.md)
 - [7.2 Atributos y métodos](./7.%20programacion_orientada_a_objetos_en_python/7.2%20atributos_y_metodos.md)
 - [7.3 Herencia y polimorfismo](./7.%20programacion_orientada_a_objetos_en_python/7.3%20herencia_y_polimorfismo.md)
 - [7.4 Encapsulamiento](./7.%20programacion_orientada_a_objetos_en_python/7.4%20encapsulamiento.md)
 
-## 8. Bibliotecas y recursos adicionales
+### 8. Bibliotecas y recursos adicionales
 - [8.1 Biblioteca estándar de Python](./8.%20bibliotecas_y_recursos_adicionales/8.1%20biblioteca_estandar_de_python.md)
 - [8.2 Bibliotecas populares de terceros](./8.%20bibliotecas_y_recursos_adicionales/8.2%20bibliotecas_populares_de_terceros.md)
 - [8.3 Comunidad y recursos de aprendizaje](./8.%20bibliotecas_y_recursos_adicionales/8.3%20comunidad_y_recursos_de_aprendizaje.md)
